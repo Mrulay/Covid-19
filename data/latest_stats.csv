@@ -1,34 +1,34 @@
-Location,TotalConfirmed,Discharged,Deaths
-Andaman and Nicobar Islands,11,10,0
-Andhra Pradesh,525,20,14
-Arunachal Pradesh,1,0,0
-Assam,33,0,1
-Bihar,70,29,1
-Chandigarh,21,7,0
-Chhattisgarh,33,17,0
-Delhi,1578,40,32
-Goa,7,5,0
-Gujarat,766,64,33
-Haryana,205,43,3
-Himachal Pradesh,35,16,1
-Jammu and Kashmir,300,36,4
-Jharkhand,28,0,2
-Karnataka,279,80,12
-Kerala,388,218,3
-Ladakh,17,10,0
-Madhya Pradesh,987,64,53
-Maharashtra,2916,295,187
-Manipur,2,1,0
-Meghalaya,7,0,1
-Mizoram,1,0,0
-Nagaland#,0,0,0
-Odisha,60,18,1
-Puducherry,7,1,0
-Punjab,186,27,13
-Rajasthan,1023,147,3
-Tamil Nadu,1242,118,14
-Telengana,647,120,18
-Tripura,2,1,0
-Uttarakhand,37,9,0
-Uttar Pradesh,735,51,11
-West Bengal,231,42,7
+,Location,TotalConfirmed,Discharged,Deaths,Active
+0,Andaman and Nicobar Islands,11,10,0,1
+1,Andhra Pradesh,572,36,14,522
+2,Arunachal Pradesh,1,0,0,1
+3,Assam,35,5,1,29
+4,Bihar,83,37,1,45
+5,Chandigarh,21,9,0,12
+6,Chhattisgarh,36,23,0,13
+7,Delhi,1640,51,38,1551
+8,Goa,7,6,0,1
+9,Gujarat,1021,74,38,909
+10,Haryana,205,43,3,159
+11,Himachal Pradesh,35,16,1,18
+12,Jammu and Kashmir,314,38,4,272
+13,Jharkhand,29,0,2,27
+14,Karnataka,353,82,13,258
+15,Kerala,395,245,3,147
+16,Ladakh,18,14,0,4
+17,Madhya Pradesh,1308,65,57,1186
+18,Maharashtra,3205,300,194,2711
+19,Manipur,2,1,0,1
+20,Meghalaya,9,0,1,8
+21,Mizoram,1,0,0,1
+22,Nagaland,0,0,0,0
+23,Odisha,60,19,1,40
+24,Puducherry,7,1,0,6
+25,Punjab,186,27,13,146
+26,Rajasthan,1131,164,11,956
+27,Tamil Nadu,1267,180,15,1072
+28,Telangana,743,186,18,539
+29,Tripura,2,1,0,1
+30,Uttarakhand,37,9,0,28
+31,Uttar Pradesh,846,74,14,758
+32,West Bengal,255,51,10,194
